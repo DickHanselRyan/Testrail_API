@@ -14,7 +14,7 @@ import re
 '''
 NEVER SHARE YOUR USER ID AND PASSWORD ONTO PUBLIC!
 '''
-client = APIClient('https://inline.testrail.io/') #Insert your Testrail URL
+client = APIClient('') #Insert your Testrail URL
 client.user = '' #Insert your Testrail User ID
 client.password = '' #Insert your Testrail Password
 
